@@ -40,7 +40,7 @@ When your one PR is merged then write your name here with your github url and ag
 
 - Raghav - [Github URL](https://github.com/rghv932)
 - Krypton - [Github URL](https://github.com/shubhamrawat5)
-
+- Tejash -[Github URL](https://github.com/GEEKY-KITTY)
 ---
 
 ## :handshake: Our Contributors
